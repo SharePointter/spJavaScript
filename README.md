@@ -1,2 +1,2 @@
-# SharePoint2013 Library
+# SharePoint2013 JS Library
 SpLib
