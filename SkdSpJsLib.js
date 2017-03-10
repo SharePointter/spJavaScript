@@ -1306,7 +1306,3 @@ SP.SOD.executeFunc('core.js', false, function() {
         })
     })
 });
-
-var target = document.getElementById('Groups');
-debugger
-console.log(target);
