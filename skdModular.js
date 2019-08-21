@@ -200,4 +200,5 @@
                 destroy: destroy
             };
         });
+        SkdSpJs.MOD_APP.init();
     });
